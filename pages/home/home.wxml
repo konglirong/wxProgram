@@ -1,0 +1,3 @@
+<!--page/home/home.wxml-->
+<text class="color">page/home/home.wxml</text>
+<button size="mini">按钮</button>
